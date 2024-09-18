@@ -36,9 +36,6 @@ We can thus say tha test assignment 0 was slightly better as per the Item Order 
 ![Capture1](https://user-images.githubusercontent.com/65482013/84435017-a8583100-ac4e-11ea-9c9d-5a7c37ad786b.PNG)
 
 
-# Computing the lift and p-value
-
-Using the link: https://thumbtack.github.io/abba/demo/abba.html, we compute the lifts in metrics and the p-values for the binary metrics (30 day order binary and 30 day view binary) using an interval 95% confidence. 
 
 The Lift was just 2.5% and the p-value was 0.2. Such a low p-value indicated that the increase was due to chance. Therefore the increase in views is statistically insignificant. We need more data, i.e we needed to run the AB Test for atleast a week more to get statistically significant results.
 
